@@ -27,7 +27,7 @@ and after running.
 - Bad sensor data (temperatures of 1-4°C in Brisbane) was identified and excluded
 
 ## Dashboard
-[View Interactive Tableau Dashboard](PASTE YOUR TABLEAU URL HERE)
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/navdeep.rao/viz/RunningPerformanceHeartRateAnalysis/Dashboard1?publish=yes)
 
 ## Data Notes
 - Dataset contains 4,550 stop/start events from real GPS running sessions
